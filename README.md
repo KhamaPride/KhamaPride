@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @KhamaPride
-- 👀 I’m interested in web development, mobile app development, java, kotlin,  
-- 🌱 I’m currently learning react, angular android developer
-- 💞️ I’m looking to collaborate on ...
-- 📫 You can reach me on bsc-40-16@cc.ac.mw
+- 👀 I’m interested in web development, mobile app development, java.
+- 🌱 I’m currently learning Kotlin and Swift
+- 💞️ I’m looking to collaborate on mobile application development in android or iOS .
+- 📫 You can reach me on kkapepeta@gmail.com
 
 <!---
 KhamaPride/KhamaPride is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
